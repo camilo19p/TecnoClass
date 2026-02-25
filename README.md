@@ -16,3 +16,6 @@ Sistema de gestión académica para el control de notas, asistencia y procesos e
 - **Lenguaje:** Python.
 - **Interfaz Gráfica:** Tkinter.
 - **Base de Datos:** SQLite (para la persistencia de información local).
+
+## 🚀 Descargar y probar
+Puedes descargar la última versión del ejecutable desde [Releases](https://github.com/camilo19p/TecnoClass/releases)
