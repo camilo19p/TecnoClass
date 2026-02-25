@@ -19,3 +19,9 @@ Sistema de gestión académica para el control de notas, asistencia y procesos e
 
 ## 🚀 Descargar y probar
 Puedes descargar la última versión del ejecutable desde [Releases](https://github.com/camilo19p/TecnoClass/releases)
+
+## 📸 Capturas del sistema
+
+| Menú principal | Selección de grado | Ingreso de datos |
+|----------------|-------------------|------------------|
+| ![menu](Capturas/captura1.png) | ![grados](Capturas/captura2.png) | ![formulario](Capturas/captura3.png) |
