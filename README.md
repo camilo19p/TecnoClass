@@ -24,4 +24,4 @@ Puedes descargar la última versión del ejecutable desde [Releases](https://git
 
 | Menú principal | Selección de grado | Ingreso de datos |
 |----------------|-------------------|------------------|
-| ![menu](Capturas/captura1.png) | ![grados](Capturas/captura2.png) | ![formulario](Capturas/captura3.png) |
+| ![menu](Capturas/captura1.png.png) | ![grados](Capturas/captura2.png.png) | ![formulario](Capturas/captura3.png.png) |
