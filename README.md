@@ -34,7 +34,7 @@
 
 | Menú principal | Selección de grado | Ingreso de datos |
 |:--------------:|:------------------:|:----------------:|
-| ![Menu](Capturas/captura1.png) | ![Grados](Capturas/captura2.png) | ![Ingreso](Capturas/captura3.png) |
+| ![Menu](Capturas/captura1.png.png) | ![Grados](Capturas/captura2.png.png) | ![Ingreso](Capturas/captura3.png.png) |
 
 > **Nota**: Las capturas están en la carpeta `/Capturas` del repositorio.
 
