@@ -23,7 +23,7 @@
 ## 🛠️ Tecnologías utilizadas
 
 - **Lenguaje**: Python 3.13+
-- **Interfaz**: Consola / Tkinter (según versión)
+- **Interfaz**: Consola / Tkinter 
 - **Almacenamiento**: JSON (estudiantes.json, profesores.json)
 - **Empaquetado**: PyInstaller para ejecutable
 - **Control de versiones**: Git y GitHub
