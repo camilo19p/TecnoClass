@@ -1,4 +1,4 @@
-# TecnoClass - Sistema de Gestión Académica
+# TecnoClass
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange)](https://docs.python.org/3/library/tkinter.html)
