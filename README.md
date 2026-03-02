@@ -6,7 +6,7 @@
 
 ## 📋 Descripción
 
-**TecnoClass** es una aplicación de escritorio desarrollada en **Python** que automatiza la administración escolar en instituciones educativas. El sistema permite gestionar de forma eficiente estudiantes, profesores, notas y asistencia, reemplazando procesos manuales por una solución digital práctica y accesible.
+**TecnoClass** es un aplicativo web desarrollado en **Python** que automatiza la administración escolar en instituciones educativas. El sistema permite gestionar de forma eficiente estudiantes, profesores, notas y asistencia, reemplazando procesos manuales por una solución digital práctica y accesible.
 
 **Proyecto desarrollado por:**
 - Camilo Andrés Martínez Peña  
