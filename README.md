@@ -40,9 +40,9 @@
 
 ## 🖼️ Capturas de pantalla
 
-| Menú principal          | Selección de grado      | Ingreso de datos        |
-|-------------------------|-------------------------|-------------------------|
-| ![Menú principal](Capturas/captura1.png.png) | ![Selección de grado](Capturas/captura2.png.png) | ![Ingreso de datos](Capturas/captura3.png.png) |
+| Menú principal | Selección de grado | Ingreso de datos |
+|:--------------:|:------------------:|:----------------:|
+| ![Menú principal](Capturas/captura1.png) | ![Selección de grado](Capturas/captura2.png) | ![Ingreso de datos](Capturas/captura3.png) |
 
 > **Nota**: Las imágenes se encuentran en la carpeta `/Capturas` del repositorio.
 
@@ -62,9 +62,23 @@
 ```bash
 # 1. Clonar el repositorio
 git clone https://github.com/camilo19p/TecnoClass.git
-
 # 2. Entrar a la carpeta del proyecto
 cd TecnoClass
-
-# 3. Ejecutar el programa principal
+# 3. Ejecutar
 python main.py
+
+📜 Licencia y Derechos de Autor
+© 2023 Camilo Andrés Martínez Peña y colaboradores
+Todos los derechos reservados.
+Este software, su código fuente, ejecutables (.exe), documentación, capturas de pantalla y recursos asociados están protegidos por derechos de autor.
+Está estrictamente prohibido (sin autorización escrita previa de los autores):
+
+Copiar, reproducir, modificar, adaptar o crear obras derivadas
+Distribuir, publicar, compartir o subir a otros repositorios/plataformas
+Usar el programa (incluido el .exe) con fines comerciales, institucionales, educativos o cualquier otro
+Eliminar o alterar esta nota de derechos de autor o los créditos de los desarrolladores
+
+Cualquier uso no autorizado constituye una infracción a los derechos de autor y puede ser perseguido legalmente.
+Si estás interesado en utilizar TecnoClass, obtener una licencia, colaborar o solicitar permiso, por favor contacta directamente a los autores.
+Contacto: martinezcamilo25p@gmail.com
+Sin una licencia explícita de código abierto, el uso, copia o distribución sin consentimiento expreso está prohibido.
