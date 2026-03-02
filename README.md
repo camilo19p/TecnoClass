@@ -42,7 +42,7 @@
 
 | Menú principal | Selección de grado | Ingreso de datos |
 |:--------------:|:------------------:|:----------------:|
-| ![Menú principal](Capturas/captura1.png) | ![Selección de grado](Capturas/captura2.png) | ![Ingreso de datos](Capturas/captura3.png) |
+| ![Menú principal](Capturas/captura1.png.png) | ![Selección de grado](Capturas/captura2.png.png) | ![Ingreso de datos](Capturas/captura3.png.png) |
 
 > **Nota**: Las imágenes se encuentran en la carpeta `/Capturas` del repositorio.
 
